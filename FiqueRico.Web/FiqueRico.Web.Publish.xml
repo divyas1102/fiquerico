@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://ftp.jonatanmachado.com/www/fiquerico" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="jonatanmachado" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiKNLZ/LLGECxSS5pXj6OQQAAAAACAAAAAAAQZgAAAAEAACAAAAAgSD2cvzOT22GtmZ7fDYIDYiYr6/i32Z4i6liMKkK5cgAAAAAOgAAAAAIAACAAAAC8Qkbrk0GEmKxfqpCndlgLi3WGuo51vdUy0oGBZqrMFCAAAADATpAfTCBIBN3sSWaRgwy5EVGv1pp3cZ0jCOKQRfu8XUAAAADHjXYSRO9ha208/16TTK/iP4UoG+j7j15TXkS506DgJemrGXqOl54L8QPwss1A9NAoGKl7uTce6Ifp9LGj62bm" SelectedForPublish="True">
+    <file relUrl="App_Themes/Default/img/sprite - Cópia.png" publishTime="01/27/2012 08:40:04" />
+    <file relUrl="Default.aspx" publishTime="05/05/2012 20:25:47" />
+    <file relUrl="App_Themes/Default/css/style.css" publishTime="05/05/2012 19:40:13" />
+    <file relUrl="cb.jpg" publishTime="05/11/2012 01:53:42" />
+    <file relUrl="fiquerico/img/btnRightOver.png" publishTime="11/27/2011 16:23:40" />
+    <file relUrl="fiquerico/img/btnLeftOver.png" publishTime="11/27/2011 16:23:57" />
+    <file relUrl="fiquerico/img/btnLeftOver.gif" publishTime="11/27/2011 16:24:12" />
+    <file relUrl="App_Themes/Default/css/Copy of style.css" publishTime="11/03/2011 09:39:37" />
+    <file relUrl="fiquerico/img/quina.gif" publishTime="11/03/2011 15:15:49" />
+    <file relUrl="App_Themes/Default/img/sprite.new.png" publishTime="01/28/2012 12:38:42" />
+    <file relUrl="fiquerico/img/logo_new.jpg" publishTime="11/03/2011 20:28:01" />
+    <file relUrl="fiquerico/img/megasena.gif" publishTime="11/03/2011 11:35:44" />
+    <file relUrl="Web.config" publishTime="05/05/2012 16:36:38" />
+    <file relUrl="Examples/moverElemento.txt" publishTime="02/15/2012 00:55:25" />
+    <file relUrl="fiquerico/img/fundo_transparente.png" publishTime="03/08/2012 18:28:12" />
+    <file relUrl="fiquerico/img/fundoEspelho.jpg" publishTime="02/27/2012 12:11:42" />
+    <file relUrl="bin/FiqueRico.BL.pdb" publishTime="05/05/2012 16:02:59" />
+    <file relUrl="fiquerico/img/fundo.gif" publishTime="02/27/2012 10:42:59" />
+    <file relUrl="App_Themes/Default/img/bgcontent_.png" publishTime="01/27/2012 10:23:52" />
+    <file relUrl="fiquerico/img/22_icone.gif" publishTime="11/03/2011 20:26:13" />
+    <file relUrl="App_Themes/Default/img/info.png" publishTime="05/05/2012 19:14:33" />
+    <file relUrl="bin/FiqueRico.BL.dll" publishTime="05/05/2012 16:02:59" />
+    <file relUrl="App_Themes/Default/img/bgbottom_.png" publishTime="01/27/2012 10:30:04" />
+    <file relUrl="App_Themes/Default/img/logo.gif" publishTime="02/11/2012 15:27:12" />
+    <file relUrl="testescript.aspx" publishTime="11/08/2011 23:33:18" />
+    <file relUrl="App_Themes/Default/img/megasena/bgtop_.png" publishTime="01/27/2012 09:52:26" />
+    <file relUrl="App_Themes/Default/img/copia segurança.png" publishTime="01/27/2012 00:35:58" />
+    <file relUrl="App_Themes/Default/img/quina/bgbottom_.png" publishTime="01/27/2012 10:20:32" />
+    <file relUrl="fiquerico/img/btnLeft.png" publishTime="11/30/2011 09:02:34" />
+    <file relUrl="App_Themes/Default/img/numero.png" publishTime="02/09/2012 22:38:14" />
+    <file relUrl="fiquerico/js/ajaxVersion.js" publishTime="04/21/2012 23:35:05" />
+    <file relUrl="fiquerico/img/fundoEspelho.png" publishTime="02/27/2012 12:06:18" />
+    <file relUrl="bin/ContentTypeHttpModule.pdb" publishTime="05/05/2012 16:02:59" />
+    <file relUrl="fiquerico/fran.html" publishTime="03/08/2012 18:33:14" />
+    <file relUrl="App_Themes/Default/img/bgtop_.png" publishTime="01/27/2012 10:12:56" />
+    <file relUrl="App_Themes/Default/img/quina/bgcontent_.png" publishTime="01/27/2012 10:23:52" />
+    <file relUrl="Quinascript.aspx" publishTime="11/09/2011 00:12:28" />
+    <file relUrl="bubu.aspx" publishTime="05/11/2012 02:13:02" />
+    <file relUrl="fiquerico/img/logo.png" publishTime="11/03/2011 19:55:36" />
+    <file relUrl="bin/FiqueRico.Web.dll" publishTime="05/11/2012 01:55:21" />
+    <file relUrl="fiquerico/js/jquery.click-calendario-1.0-min.js" publishTime="05/05/2012 20:27:49" />
+    <file relUrl="fiquerico.aspx" publishTime="01/22/2012 00:11:39" />
+    <file relUrl="App_Themes/Default/img/megasena/bgcontent_.png" publishTime="01/27/2012 08:39:34" />
+    <file relUrl="fiquerico/img/bordaEspelho.jpg" publishTime="02/27/2012 14:19:43" />
+    <file relUrl="App_Themes/Default/css/style.old.css" publishTime="12/22/2011 01:51:00" />
+    <file relUrl="MegaSenascript.aspx" publishTime="11/27/2011 11:09:35" />
+    <file relUrl="App_Themes/Default/img/megasena/bgbottom_.png" publishTime="01/27/2012 09:52:14" />
+    <file relUrl="bin/FiqueRico.Web.pdb" publishTime="05/11/2012 01:55:20" />
+    <file relUrl="App_Themes/Default/img/sitesprite.png" publishTime="01/28/2012 12:58:48" />
+    <file relUrl="App_Themes/Default/img/bgbody.png" publishTime="01/28/2012 13:07:28" />
+    <file relUrl="fiquerico/img/bordaEspelho.gif" publishTime="02/27/2012 11:55:38" />
+    <file relUrl="App_Themes/Default/css/jquery.click-calendario-1.0.css" publishTime="05/05/2012 19:38:15" />
+    <file relUrl="bin/Facebook.dll" publishTime="05/01/2012 21:52:11" />
+    <file relUrl="fiquerico/js/json2.js" publishTime="04/21/2012 23:35:05" />
+    <file relUrl="CrossDomain.aspx" publishTime="01/06/2012 07:31:00" />
+    <file relUrl="App_Themes/Default/img/bg_grid.png" publishTime="05/05/2012 17:35:47" />
+    <file relUrl="fiquerico/js/jquery.jmsajax.min.js" publishTime="04/21/2012 23:35:05" />
+    <file relUrl="fiquerico/fiquericoWS.asmx" publishTime="01/05/2012 09:54:25" />
+    <file relUrl="App_Themes/Default/img/acumulou.gif" publishTime="01/29/2012 12:52:26" />
+    <file relUrl="fiquerico/img/22.png" publishTime="11/03/2011 20:07:26" />
+    <file relUrl="fiquerico/js/script.js" publishTime="04/21/2012 23:35:05" />
+    <file relUrl="fiquerico/img/fundo_bola.png" publishTime="09/25/2011 21:59:21" />
+    <file relUrl="App_Themes/Default/img/sprite.new.gif" publishTime="01/28/2012 12:39:42" />
+    <file relUrl="fiquerico/img/fundo_header_lateral.gif" publishTime="12/04/2011 09:38:43" />
+    <file relUrl="App_Themes/Default/img/line.png" publishTime="01/28/2012 13:36:54" />
+    <file relUrl="fiquerico/img/22j.jpg" publishTime="11/03/2011 20:00:24" />
+    <file relUrl="fiquerico/img/megasena.jpg" publishTime="11/03/2011 11:31:02" />
+    <file relUrl="fiquerico/css/style.css" publishTime="05/05/2012 15:40:18" />
+    <file relUrl="App_Themes/Default/img/bgcontent.png" publishTime="01/27/2012 10:30:00" />
+    <file relUrl="bin/ContentTypeHttpModule.dll" publishTime="05/05/2012 16:02:59" />
+    <file relUrl="App_Themes/Default/img/sitesprite_.png" publishTime="01/27/2012 10:28:38" />
+    <file relUrl="Examples/webService.txt" publishTime="02/15/2012 00:56:49" />
+    <file relUrl="App_Themes/Default/img/sprite.png" publishTime="01/28/2012 12:39:48" />
+    <file relUrl="App_Themes/Default/img/quina/bgtop_.png" publishTime="01/27/2012 10:12:56" />
+    <file relUrl="Teste.htm" publishTime="11/03/2011 12:21:01" />
+    <file relUrl="App_Themes/Default/img/bgtop.png" publishTime="01/27/2012 08:03:48" />
+    <file relUrl="fiquerico/img/logo.jpg" publishTime="11/03/2011 19:46:20" />
+    <file relUrl="fiquerico/img/logo_new.png" publishTime="11/03/2011 19:45:54" />
+    <file relUrl="fiquerico/js/jquery.click-calendario-1.0.js" publishTime="04/21/2012 23:35:05" />
+    <file relUrl="fiquerico/js/exemplo-calendario.js" publishTime="04/21/2012 23:35:05" />
+    <file relUrl="fiquerico/img/btnLeftOver.jpg" publishTime="11/27/2011 16:24:21" />
+    <file relUrl="WebForm1.aspx" publishTime="10/14/2011 08:13:16" />
+    <file relUrl="fiquerico/img/btnRight.png" publishTime="11/30/2011 09:02:29" />
+    <file relUrl="fiquerico/js/1.xml" publishTime="04/22/2012 08:55:23" />
+    <file relUrl="fiquerico/img/fundoEspelho.gif" publishTime="02/27/2012 12:04:45" />
+    <file relUrl="fiquerico/img/quina.jpg" publishTime="11/03/2011 15:11:19" />
+    <file relUrl="bin/Facebook.xml" publishTime="05/01/2012 21:52:11" />
+  </publishProfile>
+</publishData>

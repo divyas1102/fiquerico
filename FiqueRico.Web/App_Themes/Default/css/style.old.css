@@ -1,0 +1,235 @@
+﻿/* CSS-Reset: */
+body, div, h1, h2, h3, h4, h5, h6, p, ul, img
+{
+    margin: 0px;
+    padding: 0px;
+}
+a img
+{
+    border: none;
+}
+
+/*Inicio do CSS do Site*/
+
+
+body
+{
+    font-family: Arial, Helvitica, sans-serif;
+    color: #000000; /*background-color: rgb(150,250,150);*/
+}
+
+#main
+{
+    border-style: solid;
+    border-width: 1px;
+    margin: 0 auto;
+    width: 755px;
+}
+#header
+{
+    background: url(/../fiquerico/img/logo_new.jpg) no-repeat;
+    height: 80px;
+}
+#icone
+{
+    background: url(/../fiquerico/img/22.png) no-repeat;
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+}
+#jogos
+{
+    border-style: solid;
+    border-width: 1px;
+    color: #FFF;
+    height: 300px;
+}
+#megasena
+{
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    background-color: #299B53;
+    display: inline-block;
+    float: left;
+    overflow:hidden;
+}
+.num_concurso
+{
+    display: inline;
+    width: 40px;
+    text-align: center;
+    background-color: #FFFFFF;
+    color: #000000;
+}
+.data
+{
+    background-color: #FFFFFF;
+    color: #000000;
+    display: inline;
+}
+#megasena ul
+{
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    list-style-type: none;
+    background-color: #FFFFFF;
+    padding-left: 15px;
+}
+#palpite ul
+ {     
+    text-align: center;
+    list-style-type: none;
+    background-color: #FFFFFF;
+    padding-left: 15px;}
+#palpite li
+{
+    color: #000000; /*background-color: #FFFFFF;*/
+    display: inline;
+    margin-right: 10px;
+    text-align: center; 
+    }
+#megasena li, 
+{
+    color: #000000; /*background-color: #FFFFFF;*/
+    display: inline;
+    margin-right: 15px;
+    text-align: center; /*padding: 1px;     margin: 1px; background-color: rgb(250,5,55);*/
+}
+#megasena .logo
+{
+    background: url(/../fiquerico/img/megasena.gif) no-repeat;
+    background-position: center;
+    display: inline-block;
+}
+
+#quina
+{
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    background-color: #251383;
+    display: inline-block;
+    float: left;
+    overflow:hidden;
+}
+#quina ul
+{
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    list-style-type: none;
+    background-color: #FFFFFF;
+    padding-left: 25px;
+}
+#quina li
+{
+    color: #000000;
+    background-color: #FFFFFF;
+    display: inline;
+    margin-right: 25px;
+    text-align: center; /*padding: 1px;     margin: 1px; background-color: rgb(250,5,55);*/
+}
+#quina .logo
+{
+    background: url(/../fiquerico/img/quina.gif) no-repeat;
+    background-position: center;
+    display: inline-block;
+}
+
+#lateral
+{
+    border-width: 1px;
+    border-style: solid;
+    width: 200px;
+    float: right;
+    margin: 2px;
+}
+
+#palpite
+{
+
+}
+#palpite h1
+{
+    font-size: 15px;
+    text-align:center;
+    color: #006666;
+    background: url(/../fiquerico/img/fundo_header_lateral.gif) repeat-x;    
+}
+#palpite p
+{
+        font-size: 12px;
+    
+    }
+.qtdWin
+{
+    display: inline;
+    width: 110px;
+    font-size: 15px;
+}
+.valor
+{
+    text-align: left;
+    display: inline;
+    width: 130px;
+    font-size: 15px;
+}
+.logo
+{
+    width: 246px;
+    height: 35px;
+}
+.space
+{
+    margin: 10px;
+}
+.btnRight, .btnLeft
+{
+    width: 25px;
+    height: 35px;
+    display: inline-block;
+    cursor: pointer;
+    border: 0px;
+}
+.btnLeft
+{
+    float: left; /* border-right: 0px;         border-style: solid;     border-color: #666;*/
+    background: url(/../fiquerico/img/btnLeft.png) no-repeat;
+}
+.btnRight
+{
+    float: right; /*border-left: 0px;         border-style: solid;     border-color: #666;*/
+    background: url(/../fiquerico/img/btnRight.png) no-repeat;
+}
+.detalhes
+{
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    cursor: pointer;
+    
+}
+#detalhesMega, #detalhesQuina
+{
+    display:inline;
+    width:248px;
+    }
+.num_sorteados
+{
+    display: inline;   
+    
+}
+
+
+.loading
+{    
+    width:inherit;
+    height:inherit;
+    background:red;
+    filter:alpha(opacity=30, finishopacity=30, style=1);
+    opacity:.3;
+    -khtml-opacity:.3;
+    border:none;
+}

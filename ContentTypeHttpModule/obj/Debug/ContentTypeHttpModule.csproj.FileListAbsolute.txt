@@ -1,0 +1,4 @@
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\ContentTypeHttpModule\bin\Debug\ContentTypeHttpModule.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\ContentTypeHttpModule\bin\Debug\ContentTypeHttpModule.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\ContentTypeHttpModule\obj\Debug\ContentTypeHttpModule.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\ContentTypeHttpModule\obj\Debug\ContentTypeHttpModule.pdb

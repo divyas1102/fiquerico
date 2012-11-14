@@ -1,0 +1,378 @@
+/*CSS RESET*/
+
+html, body, div, span, applet, object, iframe, table, caption, tbody, tfoot, thead, tr, th, td, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, dl, dt, dd, ol, ul, li, fieldset, form, label, legend
+{
+    vertical-align: baseline;
+    font-family: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+:focus
+{
+    outline: 0;
+}
+body
+{
+    background: white;
+    line-height: 1;
+    color: black;
+}
+ol, ul
+{
+    list-style: none;
+}
+table
+{
+    border-collapse: separate;
+    border-spacing: 0;
+}
+caption, th, td
+{
+    font-weight: normal;
+    text-align: left;
+}
+blockquote:before, blockquote:after, q:before, q:after
+{
+    content: "";
+}
+blockquote, q
+{
+    quotes: "" "";
+}
+/*CSS RESET*/
+
+/*Inicio do CSS do Site*/
+
+body
+{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvitica, sans-serif;
+}
+#main
+{
+    margin: 0px auto;
+    width: 755px;
+}
+#header
+{
+    height: 80px;
+    margin-bottom: 2px;
+    background-color: rgb(255, 255, 255);
+}
+#logo
+{
+    text-indent: -9999px;
+    height: 78px;
+    width: 500px;
+    margin-left: 15px;
+    background: url(../img/logo.gif) left no-repeat;
+    float: left;
+}
+#ball
+{
+    border-width: 1px;
+    border-style: solid;
+    height: 20px;
+    width: 20px;
+}
+#content
+{
+    color: #FFFFFF;
+    width: 575px;
+    padding-top: 10px;
+}
+#rightbar
+{
+    background-color: #0F6CD1;
+    float: right;
+    width: 180px;
+}
+.rightbarTit
+{
+    background-color: rgb(255,255,225);
+    color: #0F6CD1;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+}
+.rightbarContent
+{
+    padding-top: 10px;
+    color: #FFFFFF;
+}
+.line
+{
+    margin: 1px 0 1px 0;
+    background: url(../img/line.png) center repeat-x;
+}
+ul
+{
+    text-align: center;
+}
+ul li
+{
+    display: inline;
+}
+.jogos
+{
+    margin: 0 0 10px 10px;
+    width: 270px;
+    vertical-align: top;
+    display: inline-block;
+    border: 1px solid;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px 0 10px 0;
+}
+.texto
+{
+    padding: 0 5px 0 5px;
+}
+.acumulou
+{
+    background-color: #E90B0B;
+    font-size: 15pt;
+    width: 120px;
+    display: inline-block;
+    float: right;
+}
+.saiu
+{
+    display: none;
+}
+.border-left-top
+{
+    background-image: url(../img/sitesprite.png);
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+    float: left;
+}
+.border-right-top
+{
+    background-repeat: no-repeat;
+    background-image: url(../img/sitesprite.png);
+    width: 15px;
+    height: 15px;
+    float: right;
+}
+.border-left-bottom
+{
+    background-repeat: no-repeat;
+    background-image: url(../img/sitesprite.png);
+    width: 15px;
+    height: 15px;
+    float: left;
+}
+.border-right-bottom
+{
+    background-repeat: no-repeat;
+    background-image: url(../img/sitesprite.png);
+    width: 15px;
+    height: 15px;
+    float: right;
+}
+.border-bottom
+{
+    height: 15px;
+}
+.border-top
+{
+    height: 15px;
+}
+
+/*
+********************************
+MEGASENA
+********************************
+*/
+#megasena ul li
+{
+    font-size: 20pt;
+    margin: 0 5px 0 5px;
+}
+#megasena
+{
+    background-image: url(../img/megasena/bgcontent_.png);
+}
+#megasena .border-left-top
+{
+    background-position: -1px 0;
+}
+#megasena .border-right-top
+{
+    background-position: -18px 0;
+}
+#megasena .border-left-bottom
+{
+    background-position: -1px -15px;
+}
+#megasena .border-right-bottom
+{
+    background-position: -18px -16px;
+}
+#megasena .border-bottom
+{
+    background-image: url(../img/megasena/bgbottom_.png);
+    background-repeat: repeat-x;
+}
+#megasena .border-top
+{
+    background-image: url(../img/megasena/bgtop_.png);
+    background-repeat: repeat-x;
+}
+/*QUINA*/
+#quina ul li
+{
+    font-size: 20pt;
+    margin: 0 8px 0 8px;
+}
+#quina
+{
+    background-image: url(../img/bgcontent_.png);
+}
+#quina .border-left-top
+{
+    background-position: -1px -33px;
+}
+#quina .border-right-top
+{
+    background-position: -18px -33px;
+}
+#quina .border-left-bottom
+{
+    background-position: -1px -49px;
+}
+#quina .border-right-bottom
+{
+    background-position: -18px -49px;
+}
+#quina .border-bottom
+{
+    background-image: url(../img/quina/bgbottom_.png);
+    background-repeat: repeat-x;
+}
+#quina .border-top
+{
+    background-image: url(../img/quina/bgtop_.png);
+    background-repeat: repeat-x;
+}
+
+/*
+********************************
+RESULTADO
+********************************
+*/
+#resultado ul li
+{
+    font-size: 20pt;
+    margin: 0 5px 0 5px;
+}
+#resultado
+{
+    background-image: url(../img/megasena/bgcontent_.png);
+}
+#resultado .border-left-top
+{
+    background-position: -1px 0;
+}
+#resultado .border-right-top
+{
+    background-position: -18px 0;
+}
+#resultado .border-left-bottom
+{
+    background-position: -1px -15px;
+}
+#resultado .border-right-bottom
+{
+    background-position: -18px -16px;
+}
+#resultado .border-bottom
+{
+    background-image: url(../img/megasena/bgbottom_.png);
+    background-repeat: repeat-x;
+}
+#resultado .border-top
+{
+    background-image: url(../img/megasena/bgtop_.png);
+    background-repeat: repeat-x;
+}
+
+
+.borda_txt
+{
+    width: 150px;
+    padding: 1px;
+    background-color: #FFFFFF;
+    border: 1px solid #666666;
+}
+.dropdown
+{
+    width: 150px;
+    padding: 1px;
+    background-color: #FFFFFF;
+    border: 1px solid #666666;
+}
+
+.barra_tit
+{
+    font-size: 12pt;
+}
+.barra_sub_tit
+{
+    font-size: 7pt;
+}
+#not-connect
+{
+    font-size: 15pt;
+    font-family: Century Gothic;
+    color: #000FFF;
+    border-color: #000FFF;
+    border-width: 3px;
+    border-style: solid;
+    width: 100px;
+    height: 47px;
+    display: inline-block;
+    text-align: center;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+#menu
+{
+    color: #000FFF;
+    border-color: #000FFF;
+    border-width: 1px;
+    border-style: solid;
+    margin-right: 2px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+}
+#menu .top
+{
+    text-align: center;
+    margin-bottom: 3px;
+}
+#menu .middle
+{
+    text-align: center;
+    font-size: 13px;
+}
+
+#menu .bottom
+{
+    text-align: right;
+    
+}

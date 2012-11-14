@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Jogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumeroConcurso>0</NumeroConcurso>
+  <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;10&lt;/li&gt;&lt;li&gt;23&lt;/li&gt;&lt;li&gt;27&lt;/li&gt;&lt;li&gt;43&lt;/li&gt;&lt;li&gt;53&lt;/li&gt;&lt;li&gt;59&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+  <DataConcurso>2011-09-15T00:00:00</DataConcurso>
+  <TipoJogo>Megasena</TipoJogo>
+</Jogo>

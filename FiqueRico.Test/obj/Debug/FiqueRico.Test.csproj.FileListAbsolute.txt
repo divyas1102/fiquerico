@@ -1,0 +1,37 @@
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\FiqueRico.Test.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\FiqueRico.Test.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\FiqueRico.BL.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\nunit.framework.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\nunit.mocks.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\pnunit.framework.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\FiqueRico.BL.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\nunit.framework.xml
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\obj\Debug\FiqueRico.Test.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\obj\Debug\FiqueRico.Test.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\Facebook.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Test\bin\Debug\Facebook.xml
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\FiqueRico.Test.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\FiqueRico.Test.pdb
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\FiqueRico.BL.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\nunit.framework.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\nunit.mocks.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\pnunit.framework.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\Facebook.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\FiqueRico.BL.pdb
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\nunit.framework.xml
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\bin\Debug\Facebook.xml
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\obj\Debug\FiqueRico.Test.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Test\obj\Debug\FiqueRico.Test.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\bin\Debug\FiqueRico.Test.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\bin\Debug\FiqueRico.Test.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\bin\Debug\FiqueRico.BL.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\bin\Debug\nunit.framework.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\bin\Debug\nunit.mocks.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\bin\Debug\pnunit.framework.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\bin\Debug\FiqueRico.BL.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\bin\Debug\nunit.framework.xml
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\obj\Debug\FiqueRico.Test.csprojResolveAssemblyReference.cache
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\obj\Debug\FiqueRico.Test.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Test\obj\Debug\FiqueRico.Test.pdb

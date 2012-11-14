@@ -1,0 +1,4 @@
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\Fiquerico.DAL\bin\Debug\Fiquerico.DAL.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\Fiquerico.DAL\bin\Debug\Fiquerico.DAL.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\Fiquerico.DAL\obj\Debug\Fiquerico.DAL.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\Fiquerico.DAL\obj\Debug\Fiquerico.DAL.pdb

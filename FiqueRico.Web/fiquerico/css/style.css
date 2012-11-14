@@ -1,0 +1,172 @@
+﻿/*CSS RESET*/
+
+html, body, div, span, applet, object, iframe, table, caption, tbody, tfoot, thead, tr, th, td, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, dl, dt, dd, ol, ul, li, fieldset, form, label, legend
+{
+    vertical-align: baseline;
+    font-family: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+:focus
+{
+    outline: 0;
+}
+body
+{
+    background: white;
+    line-height: 1;
+    color: black;
+}
+ol, ul
+{
+    list-style: none;
+}
+table
+{
+    border-collapse: separate;
+    border-spacing: 0;
+}
+caption, th, td
+{
+    font-weight: normal;
+    text-align: left;
+}
+blockquote:before, blockquote:after, q:before, q:after
+{
+    content: "";
+}
+blockquote, q
+{
+    quotes: "" "";
+}
+/*CSS RESET*/
+
+/*Inicio do CSS do Site*/
+
+body
+{    
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvitica, sans-serif; /*background: url(../img/fundo.gif) left;*/
+    background-image: url(../img/fundo_transparente.png);
+    background-attachment:fixed;
+}
+
+#main
+{
+    width: 755px;
+    margin: 0 auto;
+}
+#header
+{
+    border: 2px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    /*border-color: #416393;*/
+    height: 130px;
+    margin-top: -15px;
+    padding: 15px;
+    margin-bottom: 2px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+#logo
+{
+    /*border-right: 1px;     border-right-style: solid;     border-right-color: #416393;     border-left: 1px;     border-left-color: #416393;     border-style: solid; text-indent: -9999px;*/
+    height: 122px;
+    position: static;
+    width: 752px;
+}
+#content
+{
+    width: 100%;
+    float: right;
+    margin-top: -8%;
+}
+.bordaEspelho
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    margin: 0 15% 0 15%;
+    height: 463px;
+    background: url(../img/bordaEspelho.jpg) repeat-y;
+}
+.espelho
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    height: 300px;
+    background: #FFFFFF;
+    margin: 10px 10px 1px 10px;
+    padding: 10px;
+    background: url(../img/fundoEspelho.jpg) repeat-y;
+}
+.btn
+{
+    border-width: 2px;
+    border-style: solid;
+    border-color: #666666;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    height: 109px;
+    background-color: #000000;
+    padding: 10px;
+}
+.btnElemet
+{
+        width: 100px;
+    height: 100px;
+    display:inline;
+    float: left;
+    margin: 0 5px 0 5px;
+    }
+.btnSquare
+{
+    color: #FFFFFF;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    width: 100px;
+    height: 100px;
+    display: inline-block;    
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-align:center;
+    cursor: pointer; 
+    font-size: 15pt;
+    font-family:Century Gothic;
+}
+
+
+.btnRetangule
+{   
+    font-size: 15pt;
+    font-family:Century Gothic; 
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    border-width: 3px;
+    border-style: solid;
+    width: 100px;
+    height: 47px;
+    display: inline-block;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-align:center;
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.BL\obj\Debug\FiqueRico.BL.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.BL\obj\Debug\FiqueRico.BL.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.BL\bin\Debug\FiqueRico.BL.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.BL\bin\Debug\FiqueRico.BL.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.BL\bin\Debug\Fiquerico.DAL.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.BL\bin\Debug\Fiquerico.DAL.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.BL\bin\Debug\Facebook.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.BL\bin\Debug\Facebook.xml
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\bin\Debug\FiqueRico.BL.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\bin\Debug\FiqueRico.BL.pdb
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\bin\Debug\Facebook.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\bin\Debug\Fiquerico.DAL.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\bin\Debug\Fiquerico.DAL.pdb
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\bin\Debug\Facebook.xml
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\obj\Debug\FiqueRico.BL.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.BL\obj\Debug\FiqueRico.BL.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.BL\obj\Debug\FiqueRico.BL.csprojResolveAssemblyReference.cache
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.BL\obj\Debug\FiqueRico.BL.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.BL\obj\Debug\FiqueRico.BL.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.BL\bin\Debug\FiqueRico.BL.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.BL\bin\Debug\FiqueRico.BL.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.BL\bin\Debug\Fiquerico.DAL.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.BL\bin\Debug\Fiquerico.DAL.pdb

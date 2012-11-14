@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Jogo>
+    <NumeroConcurso>1312</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;05&lt;/li&gt;&lt;li&gt;20&lt;/li&gt;&lt;li&gt;22&lt;/li&gt;&lt;li&gt;28&lt;/li&gt;&lt;li&gt;29&lt;/li&gt;&lt;li&gt;30&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-08-20T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1313</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;01&lt;/li&gt;&lt;li&gt;04&lt;/li&gt;&lt;li&gt;26&lt;/li&gt;&lt;li&gt;39&lt;/li&gt;&lt;li&gt;43&lt;/li&gt;&lt;li&gt;49&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-08-24T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1314</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;38&lt;/li&gt;&lt;li&gt;42&lt;/li&gt;&lt;li&gt;44&lt;/li&gt;&lt;li&gt;52&lt;/li&gt;&lt;li&gt;58&lt;/li&gt;&lt;li&gt;60&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-08-27T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1313</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;01&lt;/li&gt;&lt;li&gt;04&lt;/li&gt;&lt;li&gt;26&lt;/li&gt;&lt;li&gt;39&lt;/li&gt;&lt;li&gt;43&lt;/li&gt;&lt;li&gt;49&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-08-24T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1314</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;38&lt;/li&gt;&lt;li&gt;42&lt;/li&gt;&lt;li&gt;44&lt;/li&gt;&lt;li&gt;52&lt;/li&gt;&lt;li&gt;58&lt;/li&gt;&lt;li&gt;60&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-08-27T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1315</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;01&lt;/li&gt;&lt;li&gt;27&lt;/li&gt;&lt;li&gt;29&lt;/li&gt;&lt;li&gt;38&lt;/li&gt;&lt;li&gt;50&lt;/li&gt;&lt;li&gt;52&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-08-31T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1316</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;08&lt;/li&gt;&lt;li&gt;13&lt;/li&gt;&lt;li&gt;25&lt;/li&gt;&lt;li&gt;34&lt;/li&gt;&lt;li&gt;42&lt;/li&gt;&lt;li&gt;48&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-09-03T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1317</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;06&lt;/li&gt;&lt;li&gt;13&lt;/li&gt;&lt;li&gt;29&lt;/li&gt;&lt;li&gt;30&lt;/li&gt;&lt;li&gt;35&lt;/li&gt;&lt;li&gt;37&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-09-08T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1318</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;11&lt;/li&gt;&lt;li&gt;14&lt;/li&gt;&lt;li&gt;16&lt;/li&gt;&lt;li&gt;28&lt;/li&gt;&lt;li&gt;34&lt;/li&gt;&lt;li&gt;46&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-09-10T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1319</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;04&lt;/li&gt;&lt;li&gt;05&lt;/li&gt;&lt;li&gt;16&lt;/li&gt;&lt;li&gt;18&lt;/li&gt;&lt;li&gt;27&lt;/li&gt;&lt;li&gt;51&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-09-14T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1320</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;17&lt;/li&gt;&lt;li&gt;24&lt;/li&gt;&lt;li&gt;25&lt;/li&gt;&lt;li&gt;38&lt;/li&gt;&lt;li&gt;41&lt;/li&gt;&lt;li&gt;55&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-09-17T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1321</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;10&lt;/li&gt;&lt;li&gt;47&lt;/li&gt;&lt;li&gt;51&lt;/li&gt;&lt;li&gt;53&lt;/li&gt;&lt;li&gt;59&lt;/li&gt;&lt;li&gt;60&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-09-21T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1322</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;10&lt;/li&gt;&lt;li&gt;21&lt;/li&gt;&lt;li&gt;43&lt;/li&gt;&lt;li&gt;47&lt;/li&gt;&lt;li&gt;53&lt;/li&gt;&lt;li&gt;55&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-09-24T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1323</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;06&lt;/li&gt;&lt;li&gt;15&lt;/li&gt;&lt;li&gt;25&lt;/li&gt;&lt;li&gt;37&lt;/li&gt;&lt;li&gt;48&lt;/li&gt;&lt;li&gt;55&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-09-28T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1324</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;18&lt;/li&gt;&lt;li&gt;29&lt;/li&gt;&lt;li&gt;31&lt;/li&gt;&lt;li&gt;44&lt;/li&gt;&lt;li&gt;51&lt;/li&gt;&lt;li&gt;57&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-10-01T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1325</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;02&lt;/li&gt;&lt;li&gt;05&lt;/li&gt;&lt;li&gt;16&lt;/li&gt;&lt;li&gt;20&lt;/li&gt;&lt;li&gt;35&lt;/li&gt;&lt;li&gt;43&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-10-05T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1326</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;10&lt;/li&gt;&lt;li&gt;11&lt;/li&gt;&lt;li&gt;18&lt;/li&gt;&lt;li&gt;19&lt;/li&gt;&lt;li&gt;30&lt;/li&gt;&lt;li&gt;50&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-10-08T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1327</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;16&lt;/li&gt;&lt;li&gt;35&lt;/li&gt;&lt;li&gt;36&lt;/li&gt;&lt;li&gt;41&lt;/li&gt;&lt;li&gt;52&lt;/li&gt;&lt;li&gt;54&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-10-13T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+  <Jogo>
+    <NumeroConcurso>1328</NumeroConcurso>
+    <Dezenas>&lt;span class="num_sorteio"&gt;&lt;ul&gt;&lt;li&gt;10&lt;/li&gt;&lt;li&gt;23&lt;/li&gt;&lt;li&gt;27&lt;/li&gt;&lt;li&gt;43&lt;/li&gt;&lt;li&gt;53&lt;/li&gt;&lt;li&gt;59&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;</Dezenas>
+    <DataConcurso>2011-10-15T00:00:00</DataConcurso>
+    <TipoJogo>Megasena</TipoJogo>
+  </Jogo>
+</ArrayOfJogo>

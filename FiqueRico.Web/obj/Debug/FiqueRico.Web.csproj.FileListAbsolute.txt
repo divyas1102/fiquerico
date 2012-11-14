@@ -1,0 +1,31 @@
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\obj\Debug\FiqueRico.Web.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\bin\FiqueRico.Web.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\bin\FiqueRico.Web.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\bin\ContentTypeHttpModule.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\bin\FiqueRico.BL.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\bin\ContentTypeHttpModule.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\bin\FiqueRico.BL.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\obj\Debug\FiqueRico.Web.pdb
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\bin\Facebook.dll
+D:\Arquivos\Meus projetos\Fiquerico\fique-rico\FiqueRico\FiqueRico.Web\bin\Facebook.xml
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\bin\FiqueRico.Web.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\bin\FiqueRico.Web.pdb
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\bin\ContentTypeHttpModule.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\bin\FiqueRico.BL.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\bin\Facebook.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\bin\ContentTypeHttpModule.pdb
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\bin\FiqueRico.BL.pdb
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\bin\Facebook.xml
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\obj\Debug\FiqueRico.Web.dll
+C:\Users\Jonatan\Documents\Meus Projeto Atual\FiqueRico\FiqueRico\FiqueRico.Web\obj\Debug\FiqueRico.Web.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Web\bin\FiqueRico.Web.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Web\bin\FiqueRico.Web.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Web\bin\ContentTypeHttpModule.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Web\bin\FiqueRico.BL.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Web\bin\ContentTypeHttpModule.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Web\bin\FiqueRico.BL.pdb
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Web\obj\Debug\FiqueRico.Web.csprojResolveAssemblyReference.cache
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Web\obj\Debug\FiqueRico.Web.dll
+C:\Users\Jonatan Machado\Documents\GitHub\fiquerico\FiqueRico.Web\obj\Debug\FiqueRico.Web.pdb

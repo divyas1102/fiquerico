@@ -1,0 +1,40 @@
+﻿ //        function GetDataHora() {
+        //            FiqueRico.Web.fiquerico.fiquericoWS.DataHora(Resposta);
+        //        }
+
+        //        function GetHello() {
+        //            FiqueRico.Web.fiquerico.fiquericoWS.HelloWorld(function (resultado) { Saida.innerHTML = resultado; });
+        //        }
+
+        //        function Resposta(resultado) {
+        //            Saida.innerHTML = resultado;
+        //        }
+        /*
+        $.jmsajaxurl = function (options) {
+        var url = options.url;
+        url += "/" + options.method;
+        if (options.data) {
+        var data = ""; for (var i in options.data) {
+        if (data != "")
+        data += "&"; data += i + "=" + msJSON.stringify(options.data[i]);
+        }
+        url += "?" + data; data = null; options.data = "{}";
+        }
+        return url;
+        };
+        
+        var url = "./fiquerico/fiquericoWS.asmx/RecuperarConcurso",
+        data: { tipoJogo: megasena }
+        });
+
+        $.ajax({
+        cache: false,
+        dataType: "jsonp",
+        success: function (d) { alert(d); },
+        url: url + "&format=json"
+        });
+
+        $.getJSON(url + "&callback=?&format=json", function (data) {
+        console.log(data);
+        });
+        */
